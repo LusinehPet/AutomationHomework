@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.nio.file.attribute.UserPrincipalNotFoundException;
 import java.util.concurrent.TimeUnit;
 
-public class Lesson111 {
+public class Lesson1 {
 
     public static void main(String[] args) throws InterruptedException {
         System.setProperty("webdriver.chrome.driver","/Users/lusinepetrosyan/Desktop/chromedriver");
